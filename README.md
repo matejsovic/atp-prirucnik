@@ -1,20 +1,20 @@
 # Moj razvojni priručnik
 
-[Jedna rečenica: što je ovaj priručnik i čemu služi.]
+Ovaj priručnik pruža osnovne smjernice i praktične korake za korištenje terminala pomoću gita.
 
 ## Kome je namijenjen
 
-[Tko je čitatelj? Što već zna, a što ne zna?]
+Priručnik je namijenjen početnicima koji se prvi put susreću s radom u terminalu.
 
 ## Moje razvojno okruženje
 
 | Što | Koje |
 |---|---|
-| Operacijski sustav | [Windows 11] |
-| Uređivač koda | Visual Studio Code [2.56.0.windows.2] |
-| Terminal | [Git Bash ili zsh] |
+| Operacijski sustav | Windows 11 |
+| Uređivač koda | Visual Studio Code 2.56.0.windows.2 |
+| Terminal | Git Bash |
 | Git | [ispis naredbe git --version] |
-| Python | [ispis naredbe python --version ili „još nije instaliran”] |
+| Python | još nije instaliran |
 
 ## Sadržaj
 
@@ -22,6 +22,6 @@
 
 ## Autor i korištenje AI-a
 
-Priručnik piše [korisničko ime] u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
+Priručnik piše Matej u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
 
-[Jeste li koristili AI i za što? Ako niste: „U ovoj verziji nisam koristio/la AI.”]
+U izradi ovog priručnika koristio sam AI asistenta kao pomoć pri rješavanju pogrešaka i razumijevanju uputa.
